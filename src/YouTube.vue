@@ -54,7 +54,7 @@ const YouTube = defineComponent({
       return {
         width: `${this.width}px`,
         height: `${this.height}px`,
-        position: 'relative',
+        //position: 'relative',
       }
     },
   },
